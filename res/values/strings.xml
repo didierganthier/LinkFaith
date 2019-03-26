@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KnowLight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="Register">Register</string>
+    <string name="knowlight">Knowlight</string>
+    <string name="login">Already a member? Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+	<string name="connect">Connect people by faith</string>
+	<string name="Login">Login</string>
+	<string name="noAccount">No account yet? Create one</string>
+</resources>
